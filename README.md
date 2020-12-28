@@ -1,13 +1,13 @@
-# HTML5-Canvas
+# checkboxes
 
 ##  Repository: 
-[HTML5-Canvas](https://github.com/TBragg800/HTML5-Canvas)
+[checkboxes](https://github.com/TBragg800/checkboxes)
 
 ##  Deployed:
-[HTML5-Canvas](https://tbragg800.github.io/HTML5-Canvas/)
+[checkboxes](https://tbragg800.github.io/checkboxes/)
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-brightgreen.svg)
-![GitHub repo size](https://img.shields.io/github/repo-size/TBragg800/HTML5-Canvas)
+![GitHub repo size](https://img.shields.io/github/repo-size/TBragg800/checkboxes)
 
 ## Table of Contents
   [Description](#Description)
@@ -19,13 +19,14 @@
   [Questions](#Questions)
   
 ## Description
-  This is an application created by following the Javascript 30 instruction series by Wes Bos. The purpose of the exercise is to gain additional practice with canvas elements and to create the logic to draw through controling mouse events. To find out more about the instruction series visit the site at [Wes Bos JavaScript 30](https://javascript30.com/)
+  This is an application created by following the Javascript 30 instruction series by Wes Bos. The purpose of the exercise is to 
+  . To find out more about the instruction series visit the site at [Wes Bos JavaScript 30](https://javascript30.com/)
 
 ## Installation
   Simply clone the repo locally.
 
 ## Usage
-  Either open the index.html file in the browser of your choice or visit the github pages hosted application at [HTML5-Canvas](https://tbragg800.github.io/HTML5-Canvas/)
+  Either open the index.html file in the browser of your choice or visit the github pages hosted application at [checkboxes](https://tbragg800.github.io/checkboxes/)
 
 ## License
   MIT License
@@ -56,5 +57,5 @@ SOFTWARE.
   Github: [TBragg800](http://github.com/TBragg800)
 
 ## Screenshot of deployed application
-![](./assets/HTML5-Canvas.png)
+![](./assets/checkboxes.png)
 
